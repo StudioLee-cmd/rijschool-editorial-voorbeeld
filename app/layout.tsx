@@ -60,7 +60,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             gap: 6,
           }}
         >
-          Speciaal gemaakt voor aannemers door StudioLee.nl ↗
+          Speciaal gemaakt voor rijscholen door StudioLee.nl ↗
         </a>
       </body>
     </html>
